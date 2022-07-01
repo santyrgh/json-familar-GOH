@@ -1,0 +1,19 @@
+{
+
+    "integrantesfamilia": ["MI FAMILIA "],
+    "mama" : ["-Nombre: Zuleima Henao","-Año de nacimiento: 1976", "-Cumpleaños: 9 de febrero"],
+    "mama2" : ["-Edad: 46 años  ", "-Trabajo: confeccionista ","-Pasatiempo: ver seires "],
+    "papa": ["-Nombre: Darwin Guerrero","-Año  de nacimiento: 1977", "-Cumpleaños: 20 dejunio "],
+    "papa2" : ["-Edad: 45 años", "-Trabajo: conductor", "-Pasatiempo: Escuchar musica "],
+    "hermano1" : ["-Nombre: Daniela Orozco", "-Año de nacimiento: 1994", "-Cumpleaños: 29 de diciembre" ],
+    "hermano2" : ["-Edad: 28 años", "-Trabajo: accesora comercial", "-Pasatiempo: Ver seires/peliculas" ],
+    "hermano3" : ["-Nomnbre: David Orozco","-Año de naciemneto: 1997", "-Cumpleaños: 21 de abril" ],
+    "hermano4" : ["-Edad: 25 años", "-Trabajo: Tecnico de claro", "-Pasatiempo: Video juegos/mecanico","-Hijo: Manuel Orozco"],
+    "hermano5" : ["-Nombre: Sebastian Guerrero ", "-Año de nacimiento: 2006", "-Cumpleaños: 26  de Septiembre"],
+    "hermano6": ["-Edad: 15 años ", "-Estuadiante" ,"-Pasatiempo: Videojuegos"],
+    "hermano7" : ["-Nombre: Santiago Guerrero", "-Año de nacimiento: 2003", "-Cumpleaños: 12 de septiembre"],
+    "hermano8" :  [" -Edad:  18 años", "-Estuadiante" ,"-Pasatiempo: de todo un poco"]
+
+
+  
+}
